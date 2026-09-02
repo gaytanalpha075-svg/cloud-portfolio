@@ -112,3 +112,35 @@ margin-top:30px;
     border-color:#ffffff;
 
 }
+
+/*About page */
+
+.about-section{
+    max-width: 850px;
+    margin: 0 auto;
+    padding: 120px 40px;
+
+}
+.section-label{
+    color: #999;
+    font-size: 18px;
+    margin-bottom: 15px;
+
+}
+
+.about-section h1 {
+    font-size: 55px;
+    margin:0 0 40px 0;
+
+}
+
+.about-content {
+    max-width: 700px;
+}
+
+.about-content p{
+    color: #bdbdbd;
+    font-size: 19px;
+    line-height: 1.8;
+    margin-bottom: 25px;
+}
